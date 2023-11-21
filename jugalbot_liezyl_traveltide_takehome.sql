@@ -149,7 +149,7 @@ My recommendation is to:
 	1. Focus marketing efforts on male adults and single customers without children. 
 	2. When designing travel packages and promotions, factors such as 
      the geographical preferences of customers should be considered, with New York, Los Angeles, and Toronto being the key locations to target. 
-	3. To enhance customer experience, website or app optimization is necessary 
+	3. Enhancing customer experience, website or app optimization is necessary 
      to minimize session abandonment rates, especially for single customers with children.
 
 */
