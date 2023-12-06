@@ -182,7 +182,7 @@ LIMIT 3
      New York with 279K trips, Los Angeles with 130K trips, and Toronto with 92K trips.
 */
 
---------------- 4.a Can you make any strategic recommendations based on your answers to the questions above? ------------------
+--------------- 4.a Strategic recommendations based on the answers above ------------------
 
 /* 4.a
 
