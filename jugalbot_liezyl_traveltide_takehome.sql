@@ -1,4 +1,5 @@
 /*
+
 Project Details:
 
 e-booking startup TravelTide is a hot new player in the online travel industry. 
@@ -9,6 +10,9 @@ The TravelTide team has recently shifted focus from aggressively acquiring new c
 In order to achieve better service, the team recognizes that it is important to understand customer demographics and behavior.
 
 The task is to help the TravelTide team develop an understanding of their customers and give recommendations.
+
+TravelTide Database: postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/TravelTide?sslmode=require
+
 */
 
 -------------      1.a Which cross-section of age and gender travels the most?         --------------
