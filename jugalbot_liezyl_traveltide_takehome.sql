@@ -3,7 +3,7 @@
 Project Details:
 
 e-booking startup TravelTide is a hot new player in the online travel industry. 
-It has experienced steady growth since it was founded at the tail end of the covid pandemic (2021-04) on the strength 
+It has experienced steady growth since it was founded at the tail end of the COVID pandemic (2021-04) on the strength 
 of its data aggregation and search technology.
 
 The TravelTide team has recently shifted focus from aggressively acquiring new customers to better serving their existing customers. 
